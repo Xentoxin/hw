@@ -1,2 +1,2 @@
-all: string.c header.h
+all: strings.c 
 	gcc strings.c -o strings
